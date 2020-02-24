@@ -14,3 +14,4 @@ groceries.values.flatten
  groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
   groceries.values
 end
+end
